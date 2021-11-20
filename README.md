@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Gianmaria Pizzo</h1>
 <h3 align="center">An Aspiring ML Engineer</h3>
 
-- 🌱 I’m currently learning **Python & ML Libraries, Matlab, Basic C++,**
+- 🌱  I’m currently learning **Python & ML Libraries, Matlab, Basic C++,**
 
-- 💬 Ask me about **My background studies & my passion for bodybuilding**
+- 💬  Ask me about **My background studies & my passion for bodybuilding**
 
-- 📫 How to reach me **gianmariapizzo@gmail.com**
+- 📫  How to reach me **gianmariapizzo@gmail.com**
 
-- ⚡ Fun fact **I started coding just 3 ys ago!**
+- ⚡  Fun fact **I started coding just 3 ys ago!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
