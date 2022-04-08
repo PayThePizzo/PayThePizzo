@@ -5,7 +5,7 @@
 
 - 💬  Ask me about **My background studies & my passion for bodybuilding**
 
-- 📫  How to reach me **gianmariapizzo@gmail.com**
+- 📫  How to reach me **https://linktr.ee/paythepizzo**
 
 - ⚡  Fun fact **I started coding just 3 ys ago!**
 
