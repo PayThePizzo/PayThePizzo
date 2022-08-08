@@ -9,6 +9,8 @@
 
 - ⚡  Fun fact **I started coding just 3 ys ago!**
 
+- Please sign my petition to help me approve the use of Ritalin for those who suffer of ADHD **https://chng.it/wFtscdj2cp**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/paythepizzo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="paythepizzo" height="30" width="40" /></a>
