@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Gianmaria Pizzo</h1>
 <h3 align="center">An Aspiring ML Engineer</h3>
 
-- 🌱  I’m currently learning **Python & ML Libraries, C++**
+- 🌱  I’m currently learning **R, Python & ML Libraries, C++**
 
 - 💬  Ask me about **My background studies & my passion for bodybuilding**
 
